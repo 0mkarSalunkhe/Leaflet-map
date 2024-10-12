@@ -21,7 +21,7 @@ main {
     width: 75%;
 }
 .store-list .heading {
-    background: #ff6900;
+    background: #0a2e99;
     color: #fff;
 }
 .store-list .heading h2 {
@@ -34,7 +34,7 @@ main {
     background: rgba(0, 0, 0, 0.1);
 }
 ::-webkit-scrollbar-thumb {
-    background: #ff6900;
+    background: #0a2e99;
     border-radius: 0;
 }
 .store-list ul.list {
@@ -52,7 +52,7 @@ main {
 .store-list .shop-item a {
     text-decoration: none;
     font-size: 20px;
-    color: #ff6900;
+    color: #0a2e99;
     font-weight: 700;
 }
 .store-list .shop-item p {
@@ -68,7 +68,7 @@ main {
 }
 .leaflet-popup-content-wrapper h4 {
     padding: 16px;
-    background: #ff6804;
+    background: #0a2e99;
     color: #fff;
     font-size: 16px;
 }
@@ -82,6 +82,6 @@ main {
     padding-top: 0;
 }
 .leaflet-popup-content-wrapper .leaflet-popup-content .phone-number a {
-    color: #ff6808;
+    color: #0a2e99;
     font-size: 14px;
 }
